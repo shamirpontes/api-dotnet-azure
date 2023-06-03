@@ -1,4 +1,5 @@
-﻿using System.Linq.Expressions;
+﻿using Manager.Domain.Entities;
+using System.Linq.Expressions;
 
 namespace Manager.Infra.Interfaces 
 {

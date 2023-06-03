@@ -1,8 +1,6 @@
 ﻿using Manager.Domain.Entities;
 using Manager.Infra.Mappings;
 using Microsoft.EntityFrameworkCore;
-using System.Collections.Generic;
-using System.Reflection.Emit;
 
 namespace Manager.Infra.Context 
 {

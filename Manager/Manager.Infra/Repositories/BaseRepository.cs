@@ -2,9 +2,6 @@
 using Manager.Infra.Context;
 using Manager.Infra.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using System.Linq;
-using Microsoft.EntityFrameworkCore.ChangeTracking;
-using System.Security.Cryptography.X509Certificates;
 
 namespace Manager.Infra.Repositories
 {
